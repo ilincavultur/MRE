@@ -1,0 +1,7 @@
+# --- NECESSARY REQUIREMENTS ---
+opencv-python==4.4.0.42
+pandas==1.1.2
+ffmpeg-python==0.2.0
+
+# --- RECOMMENDED (BUT OPTIONAL) REQUIREMENTS ---
+
